@@ -1,0 +1,2 @@
+playwright-browserstack>=1.56.1
+robotframework>=6.0
