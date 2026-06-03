@@ -3,3 +3,11 @@ output/
 __pycache__/
 *.pyc
 .env
+
+# BrowserStack SDK sample
+env/
+.venv/
+node_modules/
+local.log
+log/
+*.log

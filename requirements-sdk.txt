@@ -1,0 +1,4 @@
+robotframework-browser
+robotframework
+browserstack-local
+browserstack-sdk @ https://sdk-assets.browserstack.com/python/browserstack_sdk-latest.tar.gz

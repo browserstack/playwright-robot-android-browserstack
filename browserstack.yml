@@ -1,0 +1,21 @@
+userName: YOUR_USERNAME
+accessKey: YOUR_ACCESS_KEY
+projectName: BrowserStack Samples
+buildName: browserstack build
+buildIdentifier: '#${BUILD_NUMBER}'
+framework: robotframework
+platforms:
+  - deviceName: Samsung Galaxy S23
+    osVersion: 13.0
+    platformName: android
+  - deviceName: Google Pixel 7
+    osVersion: 13.0
+    platformName: android
+parallelsPerPlatform: 1
+browserstackAutomation: true
+browserstackLocal: true
+source: playwright-robot-android-browserstack:sample-sdk:v1.0
+testObservability: true
+debug: false
+networkLogs: false
+consoleLogs: errors
