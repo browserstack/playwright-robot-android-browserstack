@@ -4,7 +4,7 @@ Sample project demonstrating Robot Framework with the [playwright-browserstack](
 
 ## Prerequisites
 
-- Python >= 3.9
+- Python >= 3.10
 - A [BrowserStack](https://www.browserstack.com/) account (set `BROWSERSTACK_USERNAME` and `BROWSERSTACK_ACCESS_KEY`)
 
 ## Setup

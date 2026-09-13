@@ -1,2 +1,2 @@
-playwright-browserstack>=1.56.1
+playwright-browserstack>=1.62.0
 robotframework>=6.0
